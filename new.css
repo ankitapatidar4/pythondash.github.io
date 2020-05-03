@@ -1,28 +1,23 @@
 body {
-  background-color: Black;
+  background-color: Light Blue;
 }
 
 h1 {
   font-family: verdana;
-  color: black;
   text-align: center;
-  font-color: Red;
 }
 
 h2 {
   font-family: verdana;
   text-align: center;
-  font-color: Red;
 }
 
 h3 {
   font-family: verdana;
   text-align: center;
-  font-color: Red;
 }
 
 p {
   font-family: verdana;
-  font-size: 180px;
-  font-color: White;
+  font-size: 18px;
 }
